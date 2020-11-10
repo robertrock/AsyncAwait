@@ -7,7 +7,7 @@ using System.Windows;
 namespace AsyncAwait
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml from youtube 
+    /// Interaction logic for MainWindow.xaml from youtube, Tim Corey, https://www.youtube.com/watch?v=2moh18sh5p4
     /// </summary>
     public partial class MainWindow : Window
     {
